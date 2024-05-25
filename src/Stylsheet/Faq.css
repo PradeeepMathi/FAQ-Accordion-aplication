@@ -1,0 +1,11 @@
+.faq-accordion{
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.faq-accordion h2{
+    margin-bottom:10px ;
+    text-align: center;
+}
